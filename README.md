@@ -6,7 +6,7 @@ Suggested updated code for book 'NLTK essentials: Building Cool NLP and Machine 
 
 The book 'NLTK essentials' is a wonderful textbook for novices into basic NLP (Natural Language Processing) techniques for its clarity, readability and comprehensiveness. However, as now coders may prefer newer versions of python and its libraries, some codes in the book could be obsolete or with mistakes. 
 
-This repositories provides suggested updated / corrected codes for the book, and the main body of the main.py codes has been tested and approved. 
+This repository provides suggested updated / corrected codes for the book, and the main body of the main.py codes has been tested and approved. 
 
 Python version: 3.9
 
