@@ -8,6 +8,8 @@ The book 'NLTK essentials' is a wonderful textbook for novices into basic NLP (N
 
 This repositories provides suggested updated / corrected codes for the book, and the main body of the main.py codes has been tested and approved. 
 
+Python version: 3.9
+
 Tips:
 
 (1) Besides installing nltk, you also need to download nltk data, and add the data to python with nltk.data.path.append('/your/path/to/the/data/packs/'). You can know what data packs to download with the nltk-raised errors concerning them. Download them from https://www.nltk.org/nltk_data/
