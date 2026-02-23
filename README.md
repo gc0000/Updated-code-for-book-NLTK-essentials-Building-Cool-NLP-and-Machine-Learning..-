@@ -14,13 +14,13 @@ Tips:
 
 (1) Besides installing nltk, you also need to download nltk data, and add the data to python with nltk.data.path.append('/your/path/to/the/data/packs/'). You can know what data packs to download with the nltk-raised errors concerning them. Download them from https://www.nltk.org/nltk_data/
 
-(2) The code is not specially rewritten for direct use, so you need to modify something (e.g., path strings) for your own environment.
+(2) The script is not specially rewritten for direct use, so you need to modify something (e.g., path strings) for your own environment.
 
-(3) The code for the last 2 chapters are not fully complete because of a lack of Hadoop/Hive environment or failure in api access tokens acquisition.
+(3) The codes for the last 2 chapters are not fully complete because of a lack of Hadoop/Hive environment or failure in api access tokens acquisition.
 
 (4) Some extra data for use is provided in \TextAnalyses_data\...
 
-(5) In case of errors from inappropriate module versions, below is the response of command $pip list:
+(5) In case of errors because of inappropriate module versions, below is the response of command $pip list:
 
 Package             Version
 
