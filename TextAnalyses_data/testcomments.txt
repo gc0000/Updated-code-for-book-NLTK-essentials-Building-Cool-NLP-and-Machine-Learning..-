@@ -1,0 +1,7 @@
+ID Comment Class
+UA0001 I tried calling you, The service was not up to the mark 1
+UA0002 Can you please update my phone no 0
+UA0003 Really bad experience 1
+UA0004 I am looking for an iPhone 0
+UA0005 Can somebody help me with my password 1
+UA0006 Thanks for considering my request for 0
