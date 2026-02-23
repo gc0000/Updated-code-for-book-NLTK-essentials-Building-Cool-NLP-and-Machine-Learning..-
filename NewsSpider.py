@@ -1,3 +1,6 @@
+# This code is Chap7 Web Crawling. 
+# Following the book, this .py file should be placed at:
+# /your/path/to/the/virtual/environment/ + Scripts/tutorial/tutorial/spiders/
 # code changed
 
 import scrapy
@@ -100,6 +103,7 @@ class JsonWriterPipeline(object):
         line = json.dumps(dict(item)) + "\n"
         self.file.write(line)
         return item
+
 
 
 
