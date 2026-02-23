@@ -1,7 +1,8 @@
 # Updated-code-for-book-NLTK-essentials-Building-Cool-NLP-and-Machine-Learning..-
 
 Suggested updated code for book 'NLTK essentials: Building Cool NLP and Machine Learning Using NLTK and Other Python Libraries'
-![Uploading image.png…]()
+<img width="419" height="490" alt="image" src="https://github.com/user-attachments/assets/5938c4bb-a221-4dca-a680-a0d327269763" />
+
 
 The book 'NLTK essentials' is a wonderful textbook for novices into basic NLP (Natural Language Processing) techniques for its clarity, readability and comprehensiveness. However, as now coders may prefer newer versions of python and its libraries, some codes in the book could be obsolete or with mistakes. 
 
