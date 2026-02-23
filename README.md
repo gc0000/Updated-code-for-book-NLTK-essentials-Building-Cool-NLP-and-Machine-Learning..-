@@ -20,7 +20,7 @@ Tips:
 
 (4) Some extra data for use is provided in \TextAnalyses_data\...
 
-(5) In case of errors from inappropriate module versions, below is response of command $pop list:
+(5) In case of errors from inappropriate module versions, below is the response of command $pip list:
 
 Package             Version
 
